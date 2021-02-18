@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		610BC1E825D14DAE00699EF9 /* Calendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610BC1E725D14DAE00699EF9 /* Calendar.swift */; };
-		610BC1E925D14DB300699EF9 /* Calendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610BC1E725D14DAE00699EF9 /* Calendar.swift */; };
 		610E649A2573077900C1BAD9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610E64992573077900C1BAD9 /* ContentView.swift */; };
 		6117E9DA2590B52300A2B475 /* PushNotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6117E9D72590B52300A2B475 /* PushNotificationManager.swift */; };
 		6117E9DB2590B52300A2B475 /* UploadAPNsTokenToServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6117E9D82590B52300A2B475 /* UploadAPNsTokenToServer.swift */; };
@@ -23,17 +22,9 @@
 		6122C061259DD42F003BE302 /* WhatsNewPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6122C060259DD42F003BE302 /* WhatsNewPage.swift */; };
 		61260069253B0AB9009E0126 /* DataDownloadAndError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61260068253B0AB9009E0126 /* DataDownloadAndError.swift */; };
 		61286F0C25ABBCF300CE1D61 /* Environment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61286F0B25ABBCF300CE1D61 /* Environment.swift */; };
-		6137124925CDD43900F93564 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6166E80125C570A800281830 /* Assets.xcassets */; };
 		613F269725CBDE9A0038A211 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 613F269525CBDE9A0038A211 /* TabBar.swift */; };
 		613F269825CBDE9A0038A211 /* TBItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 613F269625CBDE9A0038A211 /* TBItems.swift */; };
 		613F26BB25CBE11C0038A211 /* AWattPriceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617D85CE25052C37009E18FB /* AWattPriceUITests.swift */; };
-		613F270825CBE3B80038A211 /* Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 613F270725CBE3B80038A211 /* Timeline.swift */; };
-		613F272525CBFAA20038A211 /* Setting+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6156A574250C1F5E005174A5 /* Setting+CoreDataClass.swift */; };
-		613F272625CBFAA20038A211 /* Setting+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6156A575250C1F5E005174A5 /* Setting+CoreDataProperties.swift */; };
-		613F272725CBFAA20038A211 /* NotificationSetting+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617DF01A2594AA1D004BF4E2 /* NotificationSetting+CoreDataClass.swift */; };
-		613F272825CBFAA20038A211 /* NotificationSetting+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617DF01B2594AA1D004BF4E2 /* NotificationSetting+CoreDataProperties.swift */; };
-		613F272D25CBFAA80038A211 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6156A571250C1F04005174A5 /* Model.xcdatamodeld */; };
-		613F275D25CBFE560038A211 /* PersistenceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 613F275C25CBFE560038A211 /* PersistenceManager.swift */; };
 		613F276725CBFED10038A211 /* PersistenceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 613F275C25CBFE560038A211 /* PersistenceManager.swift */; };
 		6141BFF725ADC60000608290 /* SF-Compact-Display-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6141BFF625ADC60000608290 /* SF-Compact-Display-Black.otf */; };
 		6141BFF825ADC60000608290 /* SF-Compact-Display-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6141BFF625ADC60000608290 /* SF-Compact-Display-Black.otf */; };
@@ -43,12 +34,8 @@
 		615468532520D214004FBEF7 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 615468552520D214004FBEF7 /* Localizable.strings */; };
 		6154C51F25CE97A700A1304E /* EntityHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6154C51E25CE97A700A1304E /* EntityHelpers.swift */; };
 		615609E925D6772800A5CDAD /* QueueHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615609E825D6772800A5CDAD /* QueueHelpers.swift */; };
-		615609EC25D6775A00A5CDAD /* KeyboardObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6164ED26258D4B8E00F706DE /* KeyboardObserver.swift */; };
-		615609ED25D677ED00A5CDAD /* QueueHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615609E825D6772800A5CDAD /* QueueHelpers.swift */; };
 		615609F025D678A400A5CDAD /* DataParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615609EF25D678A400A5CDAD /* DataParser.swift */; };
-		615609F125D679DC00A5CDAD /* DataParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615609EF25D678A400A5CDAD /* DataParser.swift */; };
 		615609F325D67A8600A5CDAD /* DataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615609F225D67A8600A5CDAD /* DataHelpers.swift */; };
-		615609F425D67B3900A5CDAD /* DataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615609F225D67A8600A5CDAD /* DataHelpers.swift */; };
 		6156A573250C1F04005174A5 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6156A571250C1F04005174A5 /* Model.xcdatamodeld */; };
 		6156A576250C1F5E005174A5 /* Setting+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6156A574250C1F5E005174A5 /* Setting+CoreDataClass.swift */; };
 		6156A577250C1F5E005174A5 /* Setting+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6156A575250C1F5E005174A5 /* Setting+CoreDataProperties.swift */; };
@@ -58,27 +45,9 @@
 		6164ED42258E952F00F706DE /* TotalTimeFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6164ED41258E952F00F706DE /* TotalTimeFormatter.swift */; };
 		61658DA825B5AF380083D25A /* EasyIntervalPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61658DA725B5AF380083D25A /* EasyIntervalPicker.swift */; };
 		61658DB125B5AF890083D25A /* EasyIntervalPickerRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61658DB025B5AF890083D25A /* EasyIntervalPickerRepresentable.swift */; };
-		6166E7FB25C570A600281830 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6166E7FA25C570A600281830 /* WidgetKit.framework */; };
-		6166E7FD25C570A600281830 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6166E7FC25C570A600281830 /* SwiftUI.framework */; };
-		6166E80625C570A800281830 /* AWattPriceWidgetExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 6166E7F825C570A600281830 /* AWattPriceWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		6166E89725C5737400281830 /* PriceWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E7FF25C570A600281830 /* PriceWidget.swift */; };
-		6166E8AE25C5740900281830 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6166E88D25C5729500281830 /* Localizable.strings */; };
-		6166E8CF25C57B7600281830 /* WidgetBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E8B925C57ABB00281830 /* WidgetBundle.swift */; };
-		6166E8DB25C57F1D00281830 /* Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E8D525C57EFF00281830 /* Graph.swift */; };
-		6166E91725C5802F00281830 /* GlobalAppSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618AF84F2593E94100E21583 /* GlobalAppSettings.swift */; };
-		6166E92B25C580AA00281830 /* BackendCommunicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61936FC725BACDDF00D60BC5 /* BackendCommunicator.swift */; };
-		6166E93025C580AC00281830 /* DownloadData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614E784C25068F6100A7ED83 /* DownloadData.swift */; };
 		6166E93B25C5812000281830 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E93A25C5812000281830 /* NetworkManager.swift */; };
-		6166E94425C5813A00281830 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E93A25C5812000281830 /* NetworkManager.swift */; };
-		6166E95525C58EE200281830 /* GraphBody.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E95425C58EE200281830 /* GraphBody.swift */; };
-		6166E95F25C5938500281830 /* GraphPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E95E25C5938500281830 /* GraphPoint.swift */; };
-		6166E97E25C59AA900281830 /* GraphHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E94925C589CC00281830 /* GraphHelpers.swift */; };
-		6166E98C25C5B03C00281830 /* PointShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E97025C5975E00281830 /* PointShape.swift */; };
-		6166E99625C5D90500281830 /* GraphTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E99525C5D90500281830 /* GraphTextView.swift */; };
-		6166E9CB25C69FCD00281830 /* AppGroupManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E9CA25C69FCD00281830 /* AppGroupManager.swift */; };
 		6166E9D025C69FF700281830 /* AppGroupManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6166E9CA25C69FCD00281830 /* AppGroupManager.swift */; };
 		616D29C025D720AA00367CC4 /* GetData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616D29BF25D720AA00367CC4 /* GetData.swift */; };
-		616D29C125D720B200367CC4 /* GetData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616D29BF25D720AA00367CC4 /* GetData.swift */; };
 		61753B6E257818DF001379B9 /* SplashScreenFeaturesAndConsent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61753B6D257818DF001379B9 /* SplashScreenFeaturesAndConsent.swift */; };
 		617D85B225052C35009E18FB /* AwattarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617D85B125052C35009E18FB /* AwattarApp.swift */; };
 		617D85B425052C35009E18FB /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617D85B325052C35009E18FB /* HomeView.swift */; };
@@ -108,21 +77,14 @@
 		61BA0A542548467F00951321 /* HelpAndSuggestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BA0A532548467F00951321 /* HelpAndSuggestionView.swift */; };
 		61BA0A592548764400951321 /* MailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BA0A582548764400951321 /* MailView.swift */; };
 		61C551C525C737C400E1CB0F /* Font.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61C551C425C737C400E1CB0F /* Font.swift */; };
-		61C551CA25C737EE00E1CB0F /* Font.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61C551C425C737C400E1CB0F /* Font.swift */; };
 		61C963A7251E2032001B3E3C /* CheapestTimeClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61C963A6251E2032001B3E3C /* CheapestTimeClockView.swift */; };
 		61CD719825D27E91009E51AD /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61CD719725D27E91009E51AD /* Time.swift */; };
-		61CD719925D29DC7009E51AD /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61CD719725D27E91009E51AD /* Time.swift */; };
 		61CD71A025D29EE8009E51AD /* GeneralAWattPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61CD719F25D29EE8009E51AD /* GeneralAWattPrice.swift */; };
-		61CD71A125D29F1B009E51AD /* General.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D88C0A2545EF9800DA2088 /* General.swift */; };
 		61CD71A425D2E295009E51AD /* LazyNavigationDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61CD71A325D2E295009E51AD /* LazyNavigationDestination.swift */; };
-		61D1051E25CF2C0300E44883 /* EntityHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6154C51E25CE97A700A1304E /* EntityHelpers.swift */; };
-		61D1052325CF2C1600E44883 /* AutoUpdatingEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617DF0322594B573004BF4E2 /* AutoUpdatingEntity.swift */; };
-		61D1052825CF2C2000E44883 /* CurrentSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618AF8612593F82600E21583 /* CurrentSetting.swift */; };
 		61D196E52507F58D00E57BAC /* EnergyPriceGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D196E42507F58D00E57BAC /* EnergyPriceGraph.swift */; };
 		61D57125256DAA2300EA69C7 /* CustomDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D57124256DAA2300EA69C7 /* CustomDatePicker.swift */; };
 		61D6F8882517AD5500027FD1 /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D6F8872517AD5500027FD1 /* ButtonStyles.swift */; };
 		61D88C0B2545EF9800DA2088 /* General.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D88C0A2545EF9800DA2088 /* General.swift */; };
-		61DBC79725C98AE30049D4A8 /* GraphHelpersExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61DBC79625C98AE30049D4A8 /* GraphHelpersExtensions.swift */; };
 		61E0ACC025BAE6030011B0A1 /* APNSUploadError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E0ACBF25BAE6030011B0A1 /* APNSUploadError.swift */; };
 		61E0ACC825BB13800011B0A1 /* HapticFeedbacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E0ACC725BB13800011B0A1 /* HapticFeedbacks.swift */; };
 		61E2DFD7254214B100473E20 /* CheapestHourManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E2DFD6254214B100473E20 /* CheapestHourManager.swift */; };
@@ -132,13 +94,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		6166E80425C570A800281830 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 617D85A625052C35009E18FB /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 6166E7F725C570A600281830;
-			remoteInfo = AWattPriceWidgetExtension;
-		};
 		617D85C025052C37009E18FB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 617D85A625052C35009E18FB /* Project object */;
@@ -162,7 +117,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				6166E80625C570A800281830 /* AWattPriceWidgetExtension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -209,7 +163,6 @@
 		6164ED41258E952F00F706DE /* TotalTimeFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalTimeFormatter.swift; sourceTree = "<group>"; };
 		61658DA725B5AF380083D25A /* EasyIntervalPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyIntervalPicker.swift; sourceTree = "<group>"; };
 		61658DB025B5AF890083D25A /* EasyIntervalPickerRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyIntervalPickerRepresentable.swift; sourceTree = "<group>"; };
-		6166E7F825C570A600281830 /* AWattPriceWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = AWattPriceWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		6166E7FA25C570A600281830 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		6166E7FC25C570A600281830 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		6166E7FF25C570A600281830 /* PriceWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceWidget.swift; sourceTree = "<group>"; };
@@ -287,15 +240,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6166E7F525C570A600281830 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6166E7FD25C570A600281830 /* SwiftUI.framework in Frameworks */,
-				6166E7FB25C570A600281830 /* WidgetKit.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		617D85AB25052C35009E18FB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -578,7 +522,6 @@
 				617D85AE25052C35009E18FB /* AWattPrice.app */,
 				617D85BF25052C37009E18FB /* AwattarAppTests.xctest */,
 				617D85CA25052C37009E18FB /* AwattarAppUITests.xctest */,
-				6166E7F825C570A600281830 /* AWattPriceWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -783,23 +726,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6166E7F725C570A600281830 /* AWattPriceWidgetExtension */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 6166E80B25C570A800281830 /* Build configuration list for PBXNativeTarget "AWattPriceWidgetExtension" */;
-			buildPhases = (
-				6166E7F425C570A600281830 /* Sources */,
-				6166E7F525C570A600281830 /* Frameworks */,
-				6166E7F625C570A600281830 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = AWattPriceWidgetExtension;
-			productName = AWattPriceWidgetExtension;
-			productReference = 6166E7F825C570A600281830 /* AWattPriceWidgetExtension.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
 		617D85AD25052C35009E18FB /* AWattPrice */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 617D85D325052C37009E18FB /* Build configuration list for PBXNativeTarget "AWattPrice" */;
@@ -812,7 +738,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				6166E80525C570A800281830 /* PBXTargetDependency */,
 			);
 			name = AWattPrice;
 			productName = AwattarApp;
@@ -864,9 +789,6 @@
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
-					6166E7F725C570A600281830 = {
-						CreatedOnToolsVersion = 12.4;
-					};
 					617D85AD25052C35009E18FB = {
 						CreatedOnToolsVersion = 12.0;
 					};
@@ -897,21 +819,11 @@
 				617D85AD25052C35009E18FB /* AWattPrice */,
 				617D85BE25052C37009E18FB /* AwattarAppTests */,
 				617D85C925052C37009E18FB /* AwattarAppUITests */,
-				6166E7F725C570A600281830 /* AWattPriceWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		6166E7F625C570A600281830 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6137124925CDD43900F93564 /* Assets.xcassets in Resources */,
-				6166E8AE25C5740900281830 /* Localizable.strings in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		617D85AC25052C35009E18FB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -943,46 +855,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6166E7F425C570A600281830 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				613F270825CBE3B80038A211 /* Timeline.swift in Sources */,
-				6166E98C25C5B03C00281830 /* PointShape.swift in Sources */,
-				616D29C125D720B200367CC4 /* GetData.swift in Sources */,
-				61CD719925D29DC7009E51AD /* Time.swift in Sources */,
-				613F275D25CBFE560038A211 /* PersistenceManager.swift in Sources */,
-				6166E8DB25C57F1D00281830 /* Graph.swift in Sources */,
-				61D1051E25CF2C0300E44883 /* EntityHelpers.swift in Sources */,
-				61D1052325CF2C1600E44883 /* AutoUpdatingEntity.swift in Sources */,
-				61C551CA25C737EE00E1CB0F /* Font.swift in Sources */,
-				6166E95F25C5938500281830 /* GraphPoint.swift in Sources */,
-				615609F125D679DC00A5CDAD /* DataParser.swift in Sources */,
-				6166E91725C5802F00281830 /* GlobalAppSettings.swift in Sources */,
-				610BC1E925D14DB300699EF9 /* Calendar.swift in Sources */,
-				6166E92B25C580AA00281830 /* BackendCommunicator.swift in Sources */,
-				613F272825CBFAA20038A211 /* NotificationSetting+CoreDataProperties.swift in Sources */,
-				615609EC25D6775A00A5CDAD /* KeyboardObserver.swift in Sources */,
-				6166E99625C5D90500281830 /* GraphTextView.swift in Sources */,
-				6166E9CB25C69FCD00281830 /* AppGroupManager.swift in Sources */,
-				6166E97E25C59AA900281830 /* GraphHelpers.swift in Sources */,
-				6166E95525C58EE200281830 /* GraphBody.swift in Sources */,
-				6166E94425C5813A00281830 /* NetworkManager.swift in Sources */,
-				61DBC79725C98AE30049D4A8 /* GraphHelpersExtensions.swift in Sources */,
-				613F272625CBFAA20038A211 /* Setting+CoreDataProperties.swift in Sources */,
-				61D1052825CF2C2000E44883 /* CurrentSetting.swift in Sources */,
-				613F272725CBFAA20038A211 /* NotificationSetting+CoreDataClass.swift in Sources */,
-				615609ED25D677ED00A5CDAD /* QueueHelpers.swift in Sources */,
-				615609F425D67B3900A5CDAD /* DataHelpers.swift in Sources */,
-				6166E89725C5737400281830 /* PriceWidget.swift in Sources */,
-				6166E8CF25C57B7600281830 /* WidgetBundle.swift in Sources */,
-				6166E93025C580AC00281830 /* DownloadData.swift in Sources */,
-				613F272D25CBFAA80038A211 /* Model.xcdatamodeld in Sources */,
-				61CD71A125D29F1B009E51AD /* General.swift in Sources */,
-				613F272525CBFAA20038A211 /* Setting+CoreDataClass.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		617D85AA25052C35009E18FB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1084,11 +956,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		6166E80525C570A800281830 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 6166E7F725C570A600281830 /* AWattPriceWidgetExtension */;
-			targetProxy = 6166E80425C570A800281830 /* PBXContainerItemProxy */;
-		};
 		617D85C125052C37009E18FB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 617D85AD25052C35009E18FB /* AWattPrice */;
@@ -1123,167 +990,6 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		6166E80925C570A800281830 /* Development */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 618AF8052593DB6800E21583 /* Development.xcconfig */;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_ENTITLEMENTS = Entitlements/AWattPriceWidgetExtensionDevelopment.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 25;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = RC32A2AMHF;
-				ENABLE_BITCODE = YES;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = AWattPriceWidget/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.1;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = me.space8.AWattPrice.dev.AWattPriceWidget;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SUPPORTS_MACCATALYST = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Development;
-		};
-		6166E80A25C570A800281830 /* Production */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 618AF8062593DB8500E21583 /* Production.xcconfig */;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_ENTITLEMENTS = Entitlements/AWattPriceWidgetExtensionProduction.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 25;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = RC32A2AMHF;
-				ENABLE_BITCODE = YES;
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = AWattPriceWidget/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = me.space8.AWattPrice.AWattPriceWidget;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SUPPORTS_MACCATALYST = YES;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Production;
-		};
 		617D85D125052C37009E18FB /* Development */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 618AF8052593DB6800E21583 /* Development.xcconfig */;
@@ -1563,15 +1269,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6166E80B25C570A800281830 /* Build configuration list for PBXNativeTarget "AWattPriceWidgetExtension" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				6166E80925C570A800281830 /* Development */,
-				6166E80A25C570A800281830 /* Production */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Production;
-		};
 		617D85A925052C35009E18FB /* Build configuration list for PBXProject "AWattPrice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
