@@ -6,11 +6,22 @@ Diese Datenschutzrichtlinie ("Richtlinie") beschreibt, wie die persönlich ident
 
 Wenn Sie die mobile Anwendung verwenden, zeichnen unsere Server automatisch Informationen auf, die Ihr Gerät sendet. Zu diesen Daten gehören Informationen wie die IP-Adresse Ihres Geräts, Typ und Version des Betriebssystems, Zugriffszeiten und -daten, Informationen, nach denen Sie in der Mobilen Anwendung suchen, sowie Browserinformationen.
 
-Die automatisch gesammelten Informationen werden nur dazu verwendet, statistische Informationen über die Nutzung der Mobilen Anwendung und der Dienste zu erstellen. Diese statistischen Informationen werden nicht anderweitig aggregiert, dass sie einen bestimmten Benutzer des Systems identifizieren würden.
+### Sammlung von Informationen
+
+Wenn Sie eine E-Mail an eine unserer Adressen senden, erheben wir die in dieser Nachricht angegebenen Informationen (siehe auch Abschnitt "Sammlung persönlicher Daten").
+
+Wenn Sie AWattPrice Benachrichtigungen erlauben müssen wir bestimmte Informationen sammeln, um Ihnen diesen Dienst zur Verfügung zu stellen:
+
+- Ein Apple Push Notification Service Geräte-Token ("APNs-Token"). Dieses APNs-Token erlaubt uns nicht, Sie als einen individuellen Nutzer zu identifizieren, da der Token sich jederzeit ändern kann (siehe https://developer.apple.com/documentation/usernotifications/registering_your_app_with_apns).
+- Von Ihnen festgelegte Einstellungen innerhalb von AWattPrice.
 
 ### Sammlung persönlicher Informationen
 
 Sie können auf die mobile Anwendung und die Dienste zugreifen und sie nutzen, ohne uns mitzuteilen, wer Sie sind, und ohne persönliche Informationen preiszugeben, durch die jemand Sie als eine bestimmte, identifizierbare Person identifizieren könnte. Wenn Sie jedoch einige der Funktionen der Mobilen Anwendung nutzen möchten, werden Sie möglicherweise aufgefordert, bestimmte persönliche Daten anzugeben (z. B. Ihren Namen und Ihre E-Mail-Adresse). Wir erhalten und speichern alle Informationen, die Sie uns beim Ausfüllen von Online-Formularen in der Mobilen Anwendung wissentlich zur Verfügung stellen.
+
+Derzeit umfasst die Sammlung von persönlichen Informationen:
+
+- Alle persönlichen Informationen (d.h.: E-Mail-Adresse, Name, ...), die beim Senden einer E-Mail an eine unserer Adressen angegeben werden.
 
 ### Verwendung und Verarbeitung der gesammelten Informationen
 
@@ -41,11 +52,11 @@ Sie können bestimmte Rechte bezüglich Ihrer von uns verarbeiteten Daten ausüb
 
 ### Links zu anderen Ressourcen
 
-Die Mobile Anwendung und Dienste enthalten Links zu anderen Ressourcen, die nicht in unserem Besitz oder unter unserer Kontrolle sind. Bitte beachten Sie, dass wir für die Datenschutzpraktiken dieser anderen Ressourcen oder Dritter nicht verantwortlich sind.
+Die Mobile Anwendung und Dienste kann Links zu anderen Ressourcen enthalten, die nicht in unserem Besitz oder unter unserer Kontrolle sind. Bitte beachten Sie, dass wir für die Datenschutzpraktiken dieser anderen Ressourcen oder Dritter nicht verantwortlich sind.
 
 ### Informationssicherheit
 
-Die gesamte Kommunikation mit der Anwendung verwendet HTTPS als Sicherheitsmaßnahme.
+Die gesamte Kommunikation in der Anwendung verwendet HTTPS als Sicherheitsmaßnahme.
 
 Wir sichern Informationen, die Sie uns auf Computerservern hinterlassen, in einer kontrollierten sicheren Umgebung, in der unerlaubter Zugriff, Verwendung oder Veröffentlichung verhindert wird. Es kann jedoch keine Datenübertragung über das Internet oder ein drahtloses Netzwerk garantiert werden. Obwohl wir uns bemühen, Ihre persönlichen Daten zu schützen, erkennen Sie daher an, dass (i) es Sicherheits- und Datenschutzeinschränkungen des Internets gibt, die außerhalb von unserem Kontrollbereich liegen; und (ii) die Sicherheit, Integrität und Vertraulichkeit aller Informationen und Daten, die zwischen Ihnen und der mobilen Anwendung und den Diensten ausgetauscht werden, nicht garantiert werden kann.
 
@@ -61,7 +72,9 @@ Sie bestätigen, dass Sie diese Richtlinie gelesen haben und mit allen Bedingung
 
 Wenn Sie sich mit uns in Verbindung setzen möchten, um mehr über diese Richtlinie zu erfahren, oder wenn Sie sich mit uns in Verbindung setzen möchten, wenn es um die Rechte des Einzelnen und Ihre Informationen geht, können Sie eine E-Mail an contact-awattprice@space8.me senden.
 
-Dieses Dokument wurde zuletzt am 2. Dezember. 2020 aktualisiert.
+Dieses Dokument wurde zuletzt am 19.Februar.2021 aktualisiert.
 
 ### Änderungen an dieser Richtlinie:
-02.12.2020: Veröffentlichung
+02.12.2020: Erstveröffentlichung
+
+19.02.2021: Abschnitt der die Erfassung von Daten bei der Aktivierung von AWattPrice-Benachrichtigungen beschreibt.
