@@ -47,6 +47,7 @@ extension BackendCommunicator {
                 let hoursRemaining = rotation.rotationDate.timeIntervalSince(now) / 3600
                 let remainingRounded = (hoursRemaining * 1000).rounded() / 1000
                 logger.debug("Energy data due update today but not yet past rotation time: \(remainingRounded)h remaining.")
+
                 return false
             }
         } else if dayDifference > 1 { // Price data for following day is already completely available

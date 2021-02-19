@@ -67,7 +67,7 @@ class BackendCommunicator: ObservableObject {
         // If the rotation cannot be created use the start of the current day.
         
         if let timeZone = TimeZone(identifier: "Europe/Berlin"),
-           let newRotation = Rotation(hour: 12, minute: 30, second: 0, ofTimeZone: timeZone) {
+           let newRotation = Rotation(hour: 13, minute: 0, second: 0, ofTimeZone: timeZone) {
             rotation = newRotation
         } else {
             rotation = rotationAtStartOfToday()
